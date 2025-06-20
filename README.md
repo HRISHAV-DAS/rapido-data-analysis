@@ -92,7 +92,7 @@ Two `.pbix` files are included:
 ## 📷 Dashboard Visuals
 
 ### 💳 Most Used Payment Methods
-![Payment Methods](visuals/payment_method_usage.png)
+![Payment Methods](payment_method_usage.png)
 
 ### 📅 Revenue by Day
 ![Revenue by Day](visuals/revenue_by_day.png)
