@@ -104,7 +104,7 @@ Two `.pbix` files are included:
 ![Revenue by Service Type](revenue_by_service.png)
 
 ### 🧾 Dashboard Overview
-![Dashboard Overview](Rapido_Dashboard.pbix)
+![Dashboard Overview](dashboard_overview.png)
 
 ---
 
