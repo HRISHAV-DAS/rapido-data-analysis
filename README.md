@@ -101,7 +101,7 @@ Two `.pbix` files are included:
 ![Pickup Locations](visuals/top_pickup_locations.png)
 
 ### 🚗 Revenue by Service Type
-![Revenue by Service Type](visuals/revenue_by_service.png)
+![Revenue by Service Type](revenue_by_service.png)
 
 ### 🧾 Dashboard Overview
 ![Dashboard Overview](visuals/dashboard_overview.png)
