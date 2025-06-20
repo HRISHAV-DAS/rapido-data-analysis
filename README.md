@@ -148,6 +148,7 @@ This project gave me hands-on experience with a real-world dataset, using a mix 
 - **Purpose:** Developed solely for educational learning and portfolio demonstration
 
 - **Dataset Source:** (https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset?resource=download)
+- 
   📄 The dataset is shared under the MIT License by the original uploader on Kaggle. Full credit to them.
 
 ---
