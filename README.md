@@ -95,7 +95,7 @@ Two `.pbix` files are included:
 ![Payment Methods](payment_method_usage.png)
 
 ### 📅 Revenue by Day
-![Revenue by Day]([visuals/revenue_by_day.png](https://github.com/HRISHAV-DAS/rapido-data-analysis/blob/774e3ce0b3b3183a72204cb430053624ab25c889/revenue_by_day.png))
+![Revenue by Day](revenue_by_day.png)
 
 ### 🏙 Top Pickup Locations
 ![Pickup Locations](visuals/top_pickup_locations.png)
