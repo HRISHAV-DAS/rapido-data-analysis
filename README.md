@@ -98,7 +98,7 @@ Two `.pbix` files are included:
 ![Revenue by Day](revenue_by_day.png)
 
 ### 🏙 Top Pickup Locations
-![Pickup Locations](visuals/top_pickup_locations.png)
+![Pickup Locations](top_pickup_locations.png)
 
 ### 🚗 Revenue by Service Type
 ![Revenue by Service Type](revenue_by_service.png)
